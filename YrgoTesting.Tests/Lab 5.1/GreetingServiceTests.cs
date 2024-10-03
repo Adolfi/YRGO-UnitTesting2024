@@ -1,4 +1,4 @@
-﻿namespace YrgoTesting.Tests.Lab41
+﻿namespace YrgoTesting.Tests.Lab51
 {
 	public class GreetingServiceTests
 	{
